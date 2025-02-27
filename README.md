@@ -12,4 +12,4 @@ The project is stored in Google Drive. Click the link below to access:
 - Dataset 2 (Excel): Sales dataset  
 - Tools Used:  
   - PostgreSQL for database querying and data manipulation  
-  - Excel for exploratory data analysis  
+  - Excel for exploratory data analysis.
